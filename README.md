@@ -4,7 +4,7 @@ A task involving reading text files from a folder, storing the data in a relatio
 
 ## Installation
 
-1- clone the repository
-2- install the packages required: pip install -r requirements.txt
-3- run from the app folder: uvicorn main:app --reload
-4- can be tested from http://localhost:8000/docs#/default/
+- clone the repository
+- install the packages required: pip install -r requirements.txt
+- run from the app folder: uvicorn main:app --reload
+- can be tested from http://localhost:8000/docs#/default/
