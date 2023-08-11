@@ -6,5 +6,6 @@ A task involving reading text files from a folder, storing the data in a relatio
 
 - clone the repository
 - install the packages required: pip install -r requirements.txt
+- set the docs folder path and GPT api key in config file
 - run from the app folder: uvicorn main:app --reload
 - can be tested from http://localhost:8000/docs#/default/
